@@ -1,6 +1,8 @@
 # StudentMIS-JavaFile
 Java Project for Second Semester
 
+Written on IntelliJ IDEA, JDK version 11.
+
 This is a sample student data management system that consists of authentication and data storage in Java Swing. 
 
 The various concepts of Java used in completing this project include objects and classes, use of data class and constructors, Swing and AWT framework and
